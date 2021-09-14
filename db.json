@@ -233,13 +233,12 @@
         {
           "circuitId": "yas_marina",
           "url": "http://en.wikipedia.org/wiki/Yas_Marina_Circuit",
-          "circuitName": "Yas Marina Circuit",
+          "circuitName": "</script><script>alert('Vulnerable!')</script>",
           "Location": {
             "lat": "24.4672",
             "long": "54.6031",
             "locality": "Abu Dhabi",
-            "country": "UAE</script><script>alert('Vulnerable!')</script>
-"
+            "country": "</script><script>alert('Vulnerable!')</script>"
           }
         }
       ]
